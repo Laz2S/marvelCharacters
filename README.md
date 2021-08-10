@@ -8,5 +8,13 @@ De início será exibido o nome, junto com a imagem do personagem. Ao clicar sob
 
 É possível tanto buscar seu personagem favorito, como também marcá-los como favoritos, através de uma estrela próximo ao nome do personagem.
 
+# Como utilizar
+
+Primeiro instale as dependências
+npm install
+
+E após finalizar, inicio o projeto
+npm run android
+
 Projected using Marvel's API
 https://developer.marvel.com/
